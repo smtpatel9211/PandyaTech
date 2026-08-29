@@ -25,5 +25,5 @@
    "FB_inter1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
    "FB_inter2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
    "FB_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "FB_nativebanner":"b6a8946ee9154c"
+   "FB_nativebanner":"b6a8946ee91544"
 }
