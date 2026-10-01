@@ -1,7 +1,7 @@
 {
    "splash_link_all":"0",
-   "link1":"http://1084.mark.qureka.com/intro/question",
-   "link2":"https://24.go.gamescritique.com/dashboard",
+   "link1":"https://11483.play.gamezop.com/",
+   "link2":"https://11484.play.quizzop.com/",
    "link3":"https://812.go.predchamp.com/intro",
    "banner_native_all":"0",
    "livetv":"https://9455.read.criczop.com/cricket-videos?session-start-screen=home-page&int-nav=1",
